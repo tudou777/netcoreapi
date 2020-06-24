@@ -1,0 +1,239 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Dtos</name>
+    </assembly>
+    <members>
+        <member name="T:TD.Dtos.PagedResult`1">
+            <summary>
+            返回分页数据类
+            </summary>
+            <typeparam name="T"></typeparam>
+        </member>
+        <member name="P:TD.Dtos.PagedResult`1.PagingInfo.pageNo">
+            <summary>
+            页码
+            </summary>
+        </member>
+        <member name="P:TD.Dtos.PagedResult`1.PagingInfo.pageSize">
+            <summary>
+            每页条数
+            </summary>
+        </member>
+        <member name="P:TD.Dtos.PagedResult`1.PagingInfo.pageCount">
+            <summary>
+            总页数
+            </summary>
+        </member>
+        <member name="P:TD.Dtos.PagedResult`1.PagingInfo.totalRecordCount">
+            <summary>
+            总条数
+            </summary>
+        </member>
+        <member name="P:TD.Dtos.ReturnModel.succeded">
+            <summary>
+            是否成功
+            </summary>
+        </member>
+        <member name="P:TD.Dtos.ReturnModel.data">
+            <summary>
+            数据
+            </summary>
+        </member>
+        <member name="P:TD.Dtos.ReturnModel.msg">
+            <summary>
+            描述
+            </summary>
+        </member>
+        <member name="P:TD.Dtos.ReturnModel.code">
+            <summary>
+            编码
+            </summary>
+        </member>
+        <member name="T:TD.Dtos.ReturnCode">
+            <summary>
+            返回码
+            </summary>
+        </member>
+        <member name="P:TD.Dtos.ReturnCode.success">
+            <summary>
+            成功
+            </summary>
+        </member>
+        <member name="P:TD.Dtos.ReturnCode.fail">
+            <summary>
+            失败
+            </summary>
+        </member>
+        <member name="P:TD.Dtos.ReturnCode.not_found">
+            <summary>
+            找不到对象
+            </summary>
+        </member>
+        <member name="P:TD.Dtos.ReturnCode.is_null">
+            <summary>
+            数据为空
+            </summary>
+        </member>
+        <member name="P:TD.Dtos.ReturnCode.is_repeat">
+            <summary>
+            数据重复
+            </summary>
+        </member>
+        <member name="P:TD.Dtos.ReturnCode.no_permission">
+            <summary>
+            没有权限
+            </summary>
+        </member>
+        <member name="P:TD.Dtos.ReturnCode.abnormal">
+            <summary>
+            异常
+            </summary>
+        </member>
+        <member name="P:TD.Dtos.System.SystemCreate.system_name">
+            <summary>
+            系统名称
+            </summary>
+        </member>
+        <member name="T:TD.Dtos.User.UserCreate">
+             <summary>
+            系统用户创建类
+             </summary>
+        </member>
+        <member name="P:TD.Dtos.User.UserCreate.user_account">
+            <summary>
+            用户账户
+            </summary>
+        </member>
+        <member name="P:TD.Dtos.User.UserCreate.user_password">
+            <summary>
+            用户密码
+            </summary>
+        </member>
+        <member name="P:TD.Dtos.User.UserCreate.user_name">
+            <summary>
+            用户名称
+            </summary>
+        </member>
+        <member name="P:TD.Dtos.User.UserCreate.user_org_id">
+            <summary>
+            组织机构id
+            </summary>
+        </member>
+        <member name="P:TD.Dtos.User.UserCreate.user_phone">
+            <summary>
+            电话
+            </summary>
+        </member>
+        <member name="P:TD.Dtos.User.UserCreate.user_email">
+            <summary>
+            邮箱
+            </summary>
+        </member>
+        <member name="P:TD.Dtos.User.UserCreate.user_wxid">
+            <summary>
+            微信号
+            </summary>
+        </member>
+        <member name="P:TD.Dtos.User.UserCreate.user_role_id">
+            <summary>
+            角色id
+            </summary>
+        </member>
+        <member name="P:TD.Dtos.User.UserCreate.user_memo">
+            <summary>
+            备注
+            </summary>
+        </member>
+        <member name="P:TD.Dtos.User.UserCreate.user_offline_alert_method">
+            <summary>
+            报警方式，（ 报警 微信,短信,语音,邮件。这些选项，用‘,'逗号分隔 ）
+            </summary>
+        </member>
+        <member name="P:TD.Dtos.User.UserCreate.user_receive_offline_alert">
+            <summary>
+            是否接收离线报警
+            </summary>
+        </member>
+        <member name="P:TD.Dtos.User.UserCreate.user_expire_time">
+            <summary>
+            用户过期时间 （默认为空，过期自动禁用)
+            </summary>
+        </member>
+        <member name="T:TD.Dtos.User.UserInfo">
+            <summary>
+            用户展示类
+            </summary>
+        </member>
+        <member name="P:TD.Dtos.User.UserInfo.user_id">
+            <summary>
+            用户id （guid类型）
+            </summary>
+        </member>
+        <member name="P:TD.Dtos.User.UserInfo.user_account">
+            <summary>
+            用户账户
+            </summary>
+        </member>
+        <member name="P:TD.Dtos.User.UserInfo.user_name">
+            <summary>
+            用户名称
+            </summary>
+        </member>
+        <member name="P:TD.Dtos.User.UserInfo.user_phone">
+            <summary>
+            电话
+            </summary>
+        </member>
+        <member name="P:TD.Dtos.User.UserInfo.user_email">
+            <summary>
+            邮箱
+            </summary>
+        </member>
+        <member name="P:TD.Dtos.User.UserInfo.user_wxid">
+            <summary>
+            微信号
+            </summary>
+        </member>
+        <member name="P:TD.Dtos.User.UserInfo.user_system_id">
+            <summary>
+            系统id
+            </summary>
+        </member>
+        <member name="P:TD.Dtos.User.UserInfo.system_name">
+            <summary>
+            系统名称
+            </summary>
+        </member>
+        <member name="T:TD.Dtos.User.UserUpdate">
+            <summary>
+            系统用户编辑类
+            </summary>
+        </member>
+        <member name="P:TD.Dtos.User.UserUpdate.user_id">
+            <summary>
+            用户id （guid类型）
+            </summary>
+        </member>
+        <member name="P:TD.Dtos.User.UserUpdate.user_name">
+            <summary>
+            用户名称
+            </summary>
+        </member>
+        <member name="P:TD.Dtos.User.UserUpdate.user_phone">
+            <summary>
+            电话
+            </summary>
+        </member>
+        <member name="P:TD.Dtos.User.UserUpdate.user_email">
+            <summary>
+            邮箱
+            </summary>
+        </member>
+        <member name="P:TD.Dtos.User.UserUpdate.user_wxid">
+            <summary>
+            微信号
+            </summary>
+        </member>
+    </members>
+</doc>

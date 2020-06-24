@@ -1,0 +1,8 @@
+E:\practise\core\Dtos\bin\Debug\netcoreapp3.1\Dtos.deps.json
+E:\practise\core\Dtos\bin\Debug\netcoreapp3.1\Dtos.dll
+E:\practise\core\Dtos\bin\Debug\netcoreapp3.1\Dtos.pdb
+E:\practise\core\Dtos\bin\Debug\netcoreapp3.1\Dtos.xml
+E:\practise\core\Dtos\obj\Debug\netcoreapp3.1\Dtos.AssemblyInfoInputs.cache
+E:\practise\core\Dtos\obj\Debug\netcoreapp3.1\Dtos.AssemblyInfo.cs
+E:\practise\core\Dtos\obj\Debug\netcoreapp3.1\Dtos.dll
+E:\practise\core\Dtos\obj\Debug\netcoreapp3.1\Dtos.pdb

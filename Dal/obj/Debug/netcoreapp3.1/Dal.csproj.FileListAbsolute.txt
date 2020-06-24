@@ -1,0 +1,16 @@
+E:\practise\core\Dal\bin\Debug\netcoreapp3.1\Dal.deps.json
+E:\practise\core\Dal\bin\Debug\netcoreapp3.1\Dal.dll
+E:\practise\core\Dal\bin\Debug\netcoreapp3.1\Dal.pdb
+E:\practise\core\Dal\bin\Debug\netcoreapp3.1\Common.dll
+E:\practise\core\Dal\bin\Debug\netcoreapp3.1\Dtos.dll
+E:\practise\core\Dal\bin\Debug\netcoreapp3.1\Model.dll
+E:\practise\core\Dal\bin\Debug\netcoreapp3.1\Common.pdb
+E:\practise\core\Dal\bin\Debug\netcoreapp3.1\Model.pdb
+E:\practise\core\Dal\bin\Debug\netcoreapp3.1\Dtos.pdb
+E:\practise\core\Dal\bin\Debug\netcoreapp3.1\Dtos.xml
+E:\practise\core\Dal\obj\Debug\netcoreapp3.1\Dal.csprojAssemblyReference.cache
+E:\practise\core\Dal\obj\Debug\netcoreapp3.1\Dal.AssemblyInfoInputs.cache
+E:\practise\core\Dal\obj\Debug\netcoreapp3.1\Dal.AssemblyInfo.cs
+E:\practise\core\Dal\obj\Debug\netcoreapp3.1\Dal.csproj.CopyComplete
+E:\practise\core\Dal\obj\Debug\netcoreapp3.1\Dal.dll
+E:\practise\core\Dal\obj\Debug\netcoreapp3.1\Dal.pdb

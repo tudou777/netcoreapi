@@ -1,0 +1,7 @@
+E:\practise\core\Model\bin\Debug\netcoreapp3.1\Model.deps.json
+E:\practise\core\Model\bin\Debug\netcoreapp3.1\Model.dll
+E:\practise\core\Model\bin\Debug\netcoreapp3.1\Model.pdb
+E:\practise\core\Model\obj\Debug\netcoreapp3.1\Model.AssemblyInfoInputs.cache
+E:\practise\core\Model\obj\Debug\netcoreapp3.1\Model.AssemblyInfo.cs
+E:\practise\core\Model\obj\Debug\netcoreapp3.1\Model.dll
+E:\practise\core\Model\obj\Debug\netcoreapp3.1\Model.pdb

@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Api</name>
+    </assembly>
+    <members>
+        <member name="M:Api.Controllers.SystemController.Insert(TD.Dtos.System.SystemCreate)">
+            <summary>
+            新增
+            </summary>
+            <param name="entity">系统对象</param>
+            <returns></returns>
+        </member>
+        <member name="M:Api.Controllers.SystemController.GetPager(System.String,System.Int32,System.Int32)">
+            <summary>
+            分页查询
+            </summary>
+            <param name="keyword">系统名称关键字</param>
+            <param name="pageSize">数量</param>
+            <param name="pageNo">页码</param>
+            <returns></returns>
+        </member>
+        <member name="T:SwaggerHelper.CustomApiVersion.ApiVersions">
+            <summary>
+            Api接口版本 自定义
+            </summary>
+        </member>
+    </members>
+</doc>

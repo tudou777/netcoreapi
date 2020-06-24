@@ -17,12 +17,7 @@ namespace Api.Controllers
         [HttpGet]
         public ActionResult Test()
         {
-            //List<int> list = new List<int>() { 1, 2, 3, 4, 5 };
-            //int sum = TD.Common.Test.Cul<int, int>(list, TD.Common.Test.Sum);
-            //return Ok(sum.ToString());
-            //CC cc = new CC();
-            //Dog dog = new Dog();
-            //return Ok(cc.show(dog));
+            
             int? num = GetNullableType();
             return Ok(num ?? 1);
         }
